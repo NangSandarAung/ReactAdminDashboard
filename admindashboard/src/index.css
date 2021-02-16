@@ -11,3 +11,51 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/**Common CSS **/
+.error-msg{
+  color: red; 
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+
+/**Common CSS **/
+/**Navbar**/
+.navbar-brand{
+  padding-left: 10px;
+}
+/**Navbar - end**/
+
+
+/**Login Page**/
+.form-wrapper{
+  border: 1px solid #eeeeee;
+  padding: 30px;
+  box-shadow: 5px 10px #eeeeee;
+}
+/**Login Page - end**/
+
+/**Product Page**/
+.dashboard.card{
+  margin: auto;
+  text-align: center;
+}
+.img-wrapper{
+  text-align: center;
+  margin:auto;
+  padding:10px !important;
+}
+.card-img-top{
+
+  width: 200px;
+  height: 120px;
+}
+.product-wrapper{
+ text-decoration: none;
+ color: #000000
+}
+.product-wrapper:hover{
+  text-decoration: none;
+  color: #000000
+ }
+/**Login Page - end**/
